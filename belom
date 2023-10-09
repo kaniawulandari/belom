@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>PUSKESMAS KECAMATAN SENEN</title>  
+    <link rel="icon" type="images/x-icon" href="images4/new_logo_header.png">   
+<style>
+
+    body {
+        background-image: url(images4/green.jpeg);
+        background-attachment: fixed;
+        background-size: cover;
+        padding-bottom: 0%; 
+        padding-top: 0%;
+        padding-left: 35px;
+        padding-right: 35px;
+        height: auto;
+        text-align: justify;
+    }
+        img {
+        display: flex;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    h1 {
+    padding-top: 55px; 
+    }
+    table {
+        font-family: 'Arial Narrow';
+        border-collapse: collapse;
+        width: 40%;
+    }
+    td{
+        font-size: 15px;
+        border-style: solid;
+        border-collapse: collapse;
+        border-color: olivedrab;
+    }
+    tr{
+        font-size: 15px;
+        border-style: solid;
+        border-collapse: collapse;
+        border-color: olivedrab;
+    }
+</style>
+</head>
+<body>
+    <div style="font-family: 'Arial Narrow' ; background-color:rgba(143, 216, 147, 0.336) ; text-align: center ;font-size:100%; margin-left: 15%; margin-right: 15%; padding-left: 0%; padding-right: 0%;">
+    <h1 style="text-align: center; font-family: 'Bookman Old Style'; color: rgb(14, 0, 0);"><b>PUSKESMAS KECAMATAN SENEN</b></h1><br>
+    <img src="images4/senen.png" width="800" height="400" class="center">
+    <p style="text-align: center; font-family: 'Bookman Old Style'; font-size: 18px; color: rgb(14, 0, 0);"><b>SELAMAT DATANG DI WEBSITE RESMI</b><br><b>PUSKESMAS KECAMATAN SENEN</b></p>
+        <p style="text-align: center; font-family: 'Arial Narrow', 'Century Gothic', 'Comic Sans MS'; font-size: 19px; color: rgb(14, 0, 0)"> Website ini dibuat untuk mengenalkan Puskesmas Kecamatan Senen kepada masyarakat luas. <br> Berisi berbagai macam informasi terkait baik pelayanan maupun kegiatan yang ada di Puskesmas Kecamatan Senen.</p><br>
+    <h2 style="text-align: left; font-family: 'Bookman Old Style';font-size: 18px; color: rgb(14, 0, 0)">PROFIL PUSKESMAS KECAMATAN SENEN</h2>
+    <p>Yuk simak Cuplikan Singkat tentang Puskesmas Kecamatan Senen</p> <iframe width="560" height="315" src="https://www.youtube.com/embed/Qdy-peVPHVs?si=2zEoHgrEqt3Ein2i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+
+    <!-- HTML tabel -->
+    <div style="padding-left: 30px; padding-right: 30px; font-family: 'Century Gothic', 'Comic Sans MS';"></div>
+        <table style="border: 3cm">
+            <tr>
+                <th style="background-color: rgba(0, 0, 255, 0.349);" text-align="center">JADWAL PELAYANAN</th>
+                <th text-align="center">JENIS-JENIS PELAYANAN</th>
+            </tr>
+            <tr>
+                <td> Senin - Jumat <br> 07.30 - 14.30 WIB</td> 
+                <td>
+                    <ol>
+                        <li>PELAYANAN PEMERIKSAAN UMUM</li>
+                        <li>PELAYANAN MTBS-ANAK</li>
+                        <li>PELAYANAN TINDAKAN GAWAT DARURAT</li>
+                        <li>PELAYANAN PEMERIKSAAN IMUNISASI/SDIDTK</li>
+                        <li>PELAYANAN KESEHATAN GIGI & MULUT</li>
+                        <li>PELAYANAN FARMASI</li>
+                        <li>PELAYANAN LABORATORIUM</li>
+                    </ol>
+                </td>
+            <tr>
+                <td> Rabu <br> 07.30 - 14.30 WIB</td> 
+                <td>
+                    <ol>
+                        <li>PELAYANAN CATIN</li>
+                        <li>PELAYANAN NIFAS + MBTM</li>
+                    </td>
+            <tr>
+                <td> Selasa & Rabu <br> 07.30 - 14.30 WIB</td> 
+                <td>
+                    <ol>
+                        <li>PELAYANAN SETIA</li>
+                        <li>PELAYANAN VCT</li>
+                    </td>
+            <tr>
+                <td> Senin, Kamis, & Jumat <br> 07.30 - 14.30 WIB</td> 
+                <td>
+                    <ol>
+                        <li>PELAYANAN TB</li>
+                    </td>
+            <tr>
+                <td> Senin - Kamis<br> 07.30 - 14.30 WIB</td> 
+                <td>
+                    <ol>
+                        <li>PELAYANAN KB</li>
+                    </td>
+            <tr>
+                <td> Senin, Selasa, Kamis, Jumat <br> 07.30 - 14.30 WIB</td> 
+                <td>
+                    <ol>
+                        <li>PELAYANAN KESEHATAN IBU</li>
+                        <li>PELAYANAN KONSELING <BR> (GIZI + KESEHATAN LINGKUNGAN)</li>
+                            </td>
+        </table>
+
+
+   
+</body>
+</html>
